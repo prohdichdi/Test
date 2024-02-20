@@ -29,7 +29,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "大佬模式!",
-		"unique": "[+1 Production] from every [Strategic resource]",
+		"unique": "每座城市[+3 Production]",
 		"cities": ["DI聯軍總部","最後的堡壘","聯軍前哨站","人才召募區","秘密軍火庫","廢棄的語音投票所","無解城","一大堆人大廳區","一大堆人語音頻道",
 			"遊戲討論區","爆氣長文專區","神奇的東西","至高點","墮落","回收場","管理層人員機密討論區","真相館","算命室","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -62,12 +62,25 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "我想跟你談談",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"outerColor": [18,84,65],
+		"innerColor": [255,210,198],
+		"uniqueName": "內心毫無波瀾"
+		"unique": "每座城市[+5 Science]",
 		"cities": ["隱居之地","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
+		{
+		"name": "普羅赫迪奇迪",
+		"adjective": ["普羅赫迪奇迪"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "奉主人之令,前來消滅你這混蛋",
+		"attacked": "雖然我只是個城邦,但並不代表會比你弱",
+		"defeated": "我現在只是被拋棄的棋子,你願意賦予我新的意義嗎?但你只有再見可以選擇",
+		"outerColor": [0, 0, 0],
+		"innerColor": [234,168,4],
+		"cities": ["普羅赫迪奇迪"]
+	},
 ]
