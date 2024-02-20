@@ -29,8 +29,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "每座城市[+2 Production ][in all cities]",
-		"cities": ["DI聯軍總部","最後的堡壘","聯軍前哨站","人才召募區","秘密軍火庫","真相館","無解城","一大堆人大廳區","一大堆人語音頻道",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"cities": ["DI聯軍總部","最後的堡壘","聯軍前哨站","人才召募區","秘密軍火庫","廢棄的語音投票所","無解城","一大堆人大廳區","一大堆人語音頻道",
+			"遊戲討論區","爆氣長文專區","神奇的東西","至高點","墮落","回收場","管理層人員機密討論區","真相館","算命室","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
