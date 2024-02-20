@@ -20,7 +20,7 @@
 		"uniqueTo": "一大堆人",
 		"replaces": "Warrior",
 		"movement": 3,
-		"strength": 85,
+		"strength": 8,
 		"cost": 50,
 		"uniques" : ["Cannot attack","May enter foreign tiles without open borders","Invisible to others","Can transform to [Warrior]"],
 		"attackSound": "nonmetalhit"
