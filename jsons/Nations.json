@@ -1,16 +1,50 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "一大堆人",
+		"leaderName": "邪惡奪權者赫迪奇迪",
+		"adjective": ["大佬"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "在一大堆人伺服器動盪之時,邪惡的赫迪奇迪背叛了最高管理員並奪走了他的權限,隨即發動戒嚴令鎮壓反抗軍,憑著最高權限在一次次的戰鬥中取得勝利,然而,在反抗軍最後的孤注一擲中赫迪奇迪陷入苦戰,戰爭的結果就是歸零",
+		"startIntroPart2": "時間沖刷了一切戰爭的痕跡,但歷史不會,你身為赫迪奇迪的殘黨,記取上次輕敵的教訓,將其他文明全部摧毀吧!",
+		
+		"declaringWar": "時候到了,該結束這一切了,大佬登場!",
+		"attacked": "雖然是意料之外,但我不會失敗的",
+		"defeated": "我用盡了所有底牌,為什麼會這樣?哪個環節出問題了?啊啊啊啊啊啊啊!",
+		"introduction": "我是傳奇大佬赫迪奇迪,祝你好運",
+		
+		"neutralHello": "恩",
+		"neutralLetsHearIt": ["了解","......","我要跟老師講"],
+		"neutralNo": ["等著瞧","否定","拒絕"],
+		"neutralYes": ["不錯","好決定","恩"],
+
+		"hateHello": "你還有臉來見我?",
+		"hateLetsHearIt": ["請","....","走開"],
+		"hateNo": ["沒機會","作夢","......."],
+		"hateYes": ["恩","喔.","雖然討厭你,但我不討厭你的決定"],
+		
+		"afterPeace": "看來是陷入苦戰了",
+		"tradeRequest": "我想這能夠達成雙贏",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "每座城市[+2 Production ][in all cities]",
+		"cities": ["DI聯軍總部","最後的堡壘","聯軍前哨站","人才召募區","秘密軍火庫","真相館","無解城","一大堆人大廳區","一大堆人語音頻道",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	}
+	{
+		"name": "前一大堆人",
+		"leaderName": "最高管理員JT0",
+		"adjective": ["JT0"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
+		"attacked": "你如果按照我的計劃還能活一陣子,為何要招致死亡呢?",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
