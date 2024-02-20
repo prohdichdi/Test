@@ -40,13 +40,13 @@
 		"adjective": ["JT0"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "JT0是伺服器一大堆人的創始者,締造了一大堆人的黃金時代,但因為某次的政策失誤被奪走權限,",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "JT0是伺服器一大堆人的創始者,締造了一大堆人的黃金時代,但因為某次的政策失誤被奪走權限,最後銷聲匿跡在伺服器",
+		"startIntroPart2": "現在就是東山再起的最佳時刻,打敗當初的背叛者,重振一大堆人的榮耀",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "為了一大堆人,這是必要的犧牲",
 		"attacked": "你如果按照我的計劃還能活一陣子,為何要招致死亡呢?",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"defeated": "原以為我不會再失誤第二次",
+		"introduction": "要加入我們,一起復興一大堆人嗎？",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
