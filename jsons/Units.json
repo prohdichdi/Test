@@ -22,7 +22,7 @@
 		"movement": 3,
 		"strength": 85,
 		"cost": 50,
-		"uniques" : ["Cannot attack","May enter foreign tiles without open borders","No Sight","Can transform to [Warrior]"],
+		"uniques" : ["Cannot attack","May enter foreign tiles without open borders","Invisible to others","Can transform to [Warrior]"],
 		"attackSound": "nonmetalhit"
 	}
 
