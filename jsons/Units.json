@@ -14,4 +14,16 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
+	{
+		"name": "聯軍刺客",
+		"unitType": "Sword",
+		"uniqueTo": "pro",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 85,
+		"cost": 40,
+		"requiredResource": "Uranium",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}
 ]
