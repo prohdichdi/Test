@@ -2,7 +2,6 @@
 	{
 		"name": "一大堆人",
 		"leaderName": "邪惡奪權者赫迪奇迪",
-		"adjective": ["pro"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "在一大堆人伺服器動盪之時,邪惡的赫迪奇迪背叛了最高管理員並奪走了他的權限,隨即發動戒嚴令鎮壓反抗軍,憑著最高權限在一次次的戰鬥中取得勝利,然而,在反抗軍最後的孤注一擲中赫迪奇迪陷入苦戰,戰爭的結果就是歸零",
@@ -14,21 +13,14 @@
 		"introduction": "我是傳奇大佬赫迪奇迪,祝你好運",
 		
 		"neutralHello": "恩",
-		"neutralLetsHearIt": ["了解","......","我要跟老師講"],
-		"neutralNo": ["等著瞧","否定","拒絕"],
-		"neutralYes": ["不錯","好決定","恩"],
-
-		"hateHello": "你還有臉來見我?",
-		"hateLetsHearIt": ["請","....","走開"],
-		"hateNo": ["沒機會","作夢","......."],
-		"hateYes": ["恩","喔.","雖然討厭你,但我不討厭你的決定"],
-		
+		"hateHello": "你還有臉來見我?",	
 		"afterPeace": "看來是陷入苦戰了",
 		"tradeRequest": "我想這能夠達成雙贏",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "大佬模式!",
+		"uniqueText":"每座城市+3產能,城市強度+30%",
 		"unique": ["[+3 Production] [in all cities]", "[+25]% Strength for cities"],
 		"cities": ["DI聯軍總部","最後的堡壘","聯軍前哨站","人才召募區","秘密軍火庫","廢棄的語音投票所","無解城","一大堆人大廳區","一大堆人語音頻道",
 			"遊戲討論區","爆氣長文專區","神奇的東西","至高點","墮落","回收場","管理層人員機密討論區","真相館","算命室","Q'Honkrath",
@@ -38,7 +30,6 @@
 	{
 		"name": "前一大堆人",
 		"leaderName": "最高管理員JT0",
-		"adjective": ["JT0"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "JT0是伺服器一大堆人的創始者,締造了一大堆人的黃金時代,但因為某次的政策失誤被奪走權限,最後銷聲匿跡在伺服器",
@@ -73,7 +64,6 @@
 	}
 		{
 		"name": "普羅赫迪奇迪",
-		"adjective": ["普羅赫迪奇迪"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "奉主人之令,前來消滅你這混蛋",
