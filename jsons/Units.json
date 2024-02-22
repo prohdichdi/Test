@@ -1,28 +1,14 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
-	{
 		"name": "聯軍五級戰鬥員",
 		"unitType": "Sword",
 		"uniqueTo": "一大堆人",
-		"replaces": "Warrior",
-		"movement": 3,
+		"movement": 2,
 		"strength": 8,
-		"cost": 50,
-		"uniques" : ["Cannot attack","May enter foreign tiles without open borders","Invisible to others","Can transform to [Warrior]"],
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
 	}
 	{
@@ -33,7 +19,7 @@
 		"movement": 3,
 		"strength": 8,
 		"cost": 50,
-		"uniques" : ["Cannot attack","May enter foreign tiles without open borders","Invisible to others","Can transform to [Warrior]"],
+		"uniques" : ["Cannot attack","May enter foreign tiles without open borders","Invisible to others","Can transform to [聯軍五級戰鬥員]"],
 		"attackSound": "nonmetalhit"
 	}
 
