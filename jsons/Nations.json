@@ -16,10 +16,13 @@
 		"innerColor": [255,200,200],
 		"uniqueName": "大佬模式!",
 		"uniqueText":"每座城市[+3 Production],城市強度+30%",
-		"unique": ["[+3 Production] [in all cities]", "[+25]% Strength for cities"],
+		"unique": [
+			"[+3 Production] [in all cities]",
+			"[+25]% Strength for cities"
+		],
 		"cities": ["DI聯軍總部","最後的堡壘","聯軍前哨站","人才召募區","秘密軍火庫","廢棄的語音投票所","無解城","一大堆人大廳區","一大堆人語音頻道",
 			"遊戲討論區","爆氣長文專區","神奇的東西","至高點","墮落","回收場","管理層人員機密討論區","真相館","算命室"]
-	}
+	},
 	{
 		"name": "前一大堆人",
 		"leaderName": "最高管理員JT0",
@@ -39,7 +42,7 @@
 		"uniqueText":"每座城市[+5 Science],黃金時代長度加50%",
 		"unique": ["[+5 Science][in all cities]","[+50]% Golden Age length"],
 		"cities": ["資研社大本營","電腦桌","圖片庫"]
-	}
+	},
 	{
 		"name": "永廷",
 		"leaderName": "kouby",
@@ -60,7 +63,7 @@
 		"uniqueText":{"被攻擊時,告知全世界.向城邦贈禮時影響力+100%,城邦領土始終被視為友善領土,每座城市[+1 Culture]"},
 		"unique": ["Triggers the following global alert: [永廷大人被攻擊了!] <upon declaring war with a major Civilization>","Gifts of Gold to City-States generate [100]% more Influence","City-State territory always counts as friendly territory","[+1 Culture] [in all cities]"],
 
-	}
+	},
 	{
 		"name": "毒窟",
 		"leaderName": "的三大護法迷你球",
@@ -78,10 +81,10 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "小球",
 		"uniqueText":{"首都[+5 Culture],免費的移民出現,提高道路上的移動速度"},
-		"unique": ["[+5 Culture] [in capital]","Free [Settler] appears","Improves movement speed on roads"],
+		"unique": ["[+5 Culture] [in capital]","Free [Settler] appears","Improves movement speed on roads"]
 
-	}
-		{
+	},
+	{
 		"name": "普羅赫迪奇迪",
 		"cityStateType": "Militaristic",
 
@@ -91,5 +94,5 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [234,168,4],
 		"cities": ["普羅赫迪奇迪"]
-	},
+	}
 ]
