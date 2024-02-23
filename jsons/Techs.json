@@ -1,1 +1,18 @@
-
+[
+	{
+		"columnNumber": 17,
+		"era": "Future era",
+		"techCost": 9000,
+		"buildingCost": 780,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "室溫超導體",
+				"row": 1,
+				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"quote": "'早在1950年代就有人提出在「接近室溫」下出現的超導現象。若可以找到室溫超導體，可解決全世界能耗問題' - 維基百科",
+                "civilopediaText": [{"text": "本mod製作時間為2024-2-23,而現實科技會持續發展,搞不好哪天就真的實現了"}]
+			}
+		]
+	}
+]
