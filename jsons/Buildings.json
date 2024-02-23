@@ -7,6 +7,7 @@
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"quote":"'我好愛喝芭樂汁,好甜好好喝'-永廷"
 		"requiredTech": "Engineering"
 	}
 ]
