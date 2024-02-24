@@ -10,7 +10,7 @@
 		"upgradesTo": "Swordsman",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
-	}
+	},
 	{
 		"name": "聯軍刺客",
 		"unitType": "Sword",
@@ -21,6 +21,16 @@
 		"cost": 50,
 		"uniques" : ["Cannot attack","May enter foreign tiles without open borders","Invisible to others","Can transform to [聯軍五級戰鬥員]"],
 		"attackSound": "nonmetalhit"
+	}
+	{
+		"name": "次世代狙擊王",
+		"unitType": "Ranged Gunpowder",
+		"movement": 1,
+		"strength": 100,
+		"rangedStrength": 100,
+		"range":10,
+		"uniques" : ["Unbuildable","Cannot be purchased","Ranged attacks may be performed over obstacles","[10] Sight"],
+		"attackSound": "shot"
 	}
 
 ]
