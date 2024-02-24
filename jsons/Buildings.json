@@ -3,11 +3,49 @@
 		"name": "芭樂汁工廠",
 		"uniqueTo": "永廷",
 		"isNationalWonder": true,
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"cost": 60,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"food": 4,
+		"gold": 4,
+		"uniques": ["Requires at least [10] population"],
 		"quote":"'我好愛喝芭樂汁,好甜好好喝'-永廷"
-		"requiredTech": "Engineering"
+
+	},
+	{
+		"name": "能量飲料工廠",
+		"uniqueTo": "前一大堆人",
+		"isNationalWonder": true,
+		"cost": 60,
+		"food": 1,
+		"production": 5,
+		"gold": 4,
+		"uniques": ["Requires at least [10] population"],
+		"quote":"'好爽'-JT0"
+
+	},
+	{
+		"name": "瓶裝咖啡工廠",
+		"uniqueTo": "一大堆人",
+		"isNationalWonder": true,
+		"cost": 60,
+		"food": 1,
+		"production": 4,
+		"gold": 5,
+		"uniques": ["Requires at least [10] population"],
+		"quote":"'我平常不會喝咖啡,這樣在緊急狀況時咖啡就有更大的效果'-赫迪奇迪"
+
+	},
+	{
+		"name": "礦泉水工廠",
+		"uniqueTo": "毒窟",
+		"isNationalWonder": true,
+		"cost": 60,
+		"food": 2,
+		"happiness":1,
+		"culture":4,
+		"gold": 3,
+		"uniques": ["Requires at least [10] population"],
+		"quote":"'你不要拿我的水啦!'-迷你球"
+
 	}
 ]
