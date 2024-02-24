@@ -80,8 +80,8 @@
 		"outerColor": [98,5,197],
 		"innerColor": [255,255,255],
 		"uniqueName": "小球",
-		"uniqueText":{"首都[+5 Culture],免費的移民出現,提高道路上的移動速度"},
-		"unique": ["[+5 Culture] [in capital]","Free [Settler] appears","Improves movement speed on roads"]
+		"uniqueText":{"首都[+5 Culture],提高道路上的移動速度"},
+		"unique": ["[+5 Culture] [in capital]","Improves movement speed on roads"]
 
 	},
 	{
