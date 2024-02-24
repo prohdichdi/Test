@@ -81,7 +81,9 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "小球",
 		"uniqueText":{"首都[+5 Culture],每個已知的自然奇觀[+2 Gold],提高道路上的移動速度"},
-		"unique": ["[+5 Culture] [in capital]","[+2 Gold] for every known Natural Wonder","Improves movement speed on roads"]
+		"unique": ["[+5 Culture] [in capital]","[+2 Gold] for every known Natural Wonder","Improves movement speed on roads"],
+		"cities": ["毒窟基地","規則","港口","身分組領取中心","聊天室","音樂","動漫討論","剪輯和精選","積分垃圾人",
+			"原神抽卡模擬","語音頻道區","大廳","邊聽邊讀-讀書室","飛鼠補習班","色色區","可以色色"]
 
 	},
 	{
