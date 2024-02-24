@@ -20,7 +20,7 @@
 		"production": 5,
 		"gold": 4,
 		"uniques": ["Requires at least [10] population"],
-		"quote":"'好爽'-JT0"
+		"quote":"'清爽柑橘味的能量飲料才是真理,這間工廠只生產最好喝的能量飲料,一口下去,體驗身體超頻的感覺.'-JT0"
 
 	},
 	{
@@ -46,6 +46,15 @@
 		"gold": 3,
 		"uniques": ["Requires at least [10] population"],
 		"quote":"'你不要拿我的水啦!'-迷你球"
+
+	},
+	{
+		"name": "頂尖狙擊手培訓",
+		"isNationalWonder": true,
+		"cost": 3000,
+		"uniques": ["Free [次世代狙擊王] appears"],
+		"requiredTech": "Replaceable Parts",
+		"quote":"'這位是無人可敵的天才狙擊手'-教官"
 
 	}
 ]
