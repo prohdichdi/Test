@@ -15,10 +15,14 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "大佬模式!",
-		"uniqueText":"每座城市[+3 Production],城市強度+30%",
+		"uniqueText":"每座城市[+5 Production],城市強度+50%,受傷單位不會被削弱,劫掠無需移動成本,可能會有反抗軍出現",
 		"uniques": [
-			"[+3 Production] [in all cities]",
-			"[+25]% Strength for cities"
+			"[+5 Production] [in all cities]",
+			"[+50]% Strength for cities",
+			"Damage is ignored when determining unit Strength",
+			"[+50]% Strength <for [{Military} {Land}] units>",
+			"Rebel units may spawn",
+			"No movement cost to pillage"
 		],
 		"cities": ["DI聯軍總部","最後的堡壘","聯軍前哨站","人才召募區","秘密軍火庫","廢棄的語音投票所","無解城","一大堆人大廳區","一大堆人語音頻道",
 			"遊戲討論區","爆氣長文專區","神奇的東西","至高點","墮落","回收場","管理層人員機密討論區","真相館","算命室"]
@@ -39,8 +43,8 @@
 		"outerColor": [18,84,65],
 		"innerColor": [255,210,198],
 		"uniqueName": "內心毫無波瀾",
-		"uniqueText": "每座城市[+5 Science],黃金時代長度加50%",
-		"uniques": ["[+5 Science][in all cities]","[+50]% Golden Age length"],
+		"uniqueText": "每座城市[+5 Science],黃金時代長度+100%,征服野蠻人營地時，[+50 Gold]並俘虜一個野蠻人",
+		"uniques": ["[+5 Science][in all cities]","[+100]% Golden Age length","When conquering an encampment, earn [50] Gold and recruit a Barbarian unit"],
 		"cities": ["資研社大本營","電腦桌","圖片庫"]
 	},
 	{
@@ -48,7 +52,7 @@
 		"leaderName": "kouby",
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "永廷是一大堆人伺服器的管理員之一,也是在伺服器崩潰之前最活躍的管理員之一,他涉略多種遊戲,與大多成員都有倆好的關係",
+		"startIntroPart1": "永廷是一大堆人伺服器的管理員之一,也是在伺服器崩潰之前最活躍的管理員之一,他涉略多種遊戲,與大多成員都有良好的關係",
 		"startIntroPart2": "如今伺服器已毀,請收集各總奢侈品,維持各方勢力的平衡,再次成為這世界的王吧!",
 		"declaringWar": "你把我的海尼根拿到哪了!",
 		"attacked": "你並非只向我宣戰,是向全世界!",
@@ -62,7 +66,7 @@
 		"uniqueName": "電神",
 		"uniqueText": "被攻擊時,告知全世界.向城邦贈禮時影響力+100%,城邦領土始終被視為友善領土,每座城市[+1 Culture]",
 		"uniques": ["Triggers the following global alert: [永廷大人被攻擊了!] <upon declaring war with a major Civilization>","Gifts of Gold to City-States generate [+100]% more Influence","City-State territory always counts as friendly territory","[+1 Culture] [in all cities]"]
-		"cities": ["a","b","c"]
+		"cities": ["高個兒","b","c"]
 	},
 	{
 		"name": "毒窟",
@@ -84,6 +88,27 @@
 		"uniques": ["[+5 Culture] [in capital]","[+2 Gold] for every known Natural Wonder","Improves movement speed on roads"],
 		"cities": ["毒窟基地","規則","港口","身分組領取中心","聊天室","音樂","動漫討論","剪輯和精選","積分垃圾人",
 			"原神抽卡模擬","語音頻道區","大廳","邊聽邊讀-讀書室","飛鼠補習班","色色區","可以色色"]
+
+	},
+	{
+		"name": "最強肝帝",
+		"leaderName": "嘎勝",
+		
+		"startIntroPart1": "嘎勝是一大堆人的最強肝帝,同時也是管理員之一,憑著強大的肝功能打敗了許多對手",
+		"startIntroPart2": "伺服器崩壞後來到了unciv,他能再次靠他的肝功能稱霸世界嗎?",
+		"declaringWar": "我剛肝出了一些酷東西,你來借我試試看新武器的威力",
+		"attacked": "這是你說的喔!",
+		"defeated": "打不過課斤大佬啊...",
+		"introduction": "我是最強肝帝嘎勝,要一起肝遊戲嗎?",
+		"neutralHello": "早安",
+		"hateHello": "你不要吵",	
+		"tradeRequest": "我可以幫你肝一些東西",
+		"outerColor": [69,101,138],
+		"innerColor": [255,5,22],
+		"uniqueName": "最強肝帝",
+		"uniqueText": "每座城市成長+30%,農場、礦井、貿易站產量+100%,",
+		"uniques": ["[+30]% growth [in all cities]","[+100]% Yield from every [Farm]","[+100]% Yield from every [Mine]","[+100]% Yield from every [Trading post]"],
+		"cities": ["肝帝聖城","大醫院","肝帝招募","人工礦坑","人造山脈","用三天肝出來的城堡"]
 
 	},
 	{
