@@ -8,7 +8,7 @@
 		"food": 4,
 		"gold": 4,
 		"uniques": ["Requires at least [10] population"],
-		"quote":"'我好愛喝芭樂汁,好甜好好喝'-永廷"
+		"quote": "'我好愛喝芭樂汁,好甜好好喝'-永廷"
 
 	},
 	{
@@ -20,7 +20,7 @@
 		"production": 5,
 		"gold": 4,
 		"uniques": ["Requires at least [10] population"],
-		"quote":"'清爽柑橘味的能量飲料才是真理,這間工廠只生產最好喝的能量飲料,一口下去,體驗身體超頻的感覺.'-JT0"
+		"quote": "'清爽柑橘味的能量飲料才是真理,這間工廠只生產最好喝的能量飲料,一口下去,體驗身體超頻的感覺.'-JT0"
 
 	},
 	{
@@ -32,7 +32,7 @@
 		"production": 4,
 		"gold": 5,
 		"uniques": ["Requires at least [10] population"],
-		"quote":"'我平常不會喝咖啡,這樣在緊急狀況時咖啡就有更大的效果'-赫迪奇迪"
+		"quote": "'我平常不會喝咖啡,這樣在緊急狀況時咖啡就有更大的效果'-赫迪奇迪"
 
 	},
 	{
@@ -45,7 +45,7 @@
 		"culture":4,
 		"gold": 3,
 		"uniques": ["Requires at least [10] population"],
-		"quote":"'你不要拿我的水啦!'-迷你球"
+		"quote": "'你不要拿我的水啦!'-迷你球"
 
 	},
 	{
@@ -54,7 +54,7 @@
 		"cost": 3000,
 		"uniques": ["Free [次世代狙擊王] appears"],
 		"requiredTech": "Replaceable Parts",
-		"quote":"'這位是無人可敵的天才狙擊手'-教官"
+		"quote": "'這位是無人可敵的天才狙擊手'-教官"
 
 	}
 ]
