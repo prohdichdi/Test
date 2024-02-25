@@ -16,7 +16,7 @@
 		"innerColor": [255,200,200],
 		"uniqueName": "大佬模式!",
 		"uniqueText":"每座城市[+3 Production],城市強度+30%",
-		"unique": [
+		"uniques": [
 			"[+3 Production] [in all cities]",
 			"[+25]% Strength for cities"
 		],
@@ -39,8 +39,8 @@
 		"outerColor": [18,84,65],
 		"innerColor": [255,210,198],
 		"uniqueName": "內心毫無波瀾",
-		"uniqueText":"每座城市[+5 Science],黃金時代長度加50%",
-		"unique": ["[+5 Science][in all cities]","[+50]% Golden Age length"],
+		"uniqueText": "每座城市[+5 Science],黃金時代長度加50%",
+		"uniques": ["[+5 Science][in all cities]","[+50]% Golden Age length"],
 		"cities": ["資研社大本營","電腦桌","圖片庫"]
 	},
 	{
@@ -60,8 +60,8 @@
 		"outerColor": [225,215,0],
 		"innerColor": [80,80,80],
 		"uniqueName": "電神",
-		"uniqueText":"被攻擊時,告知全世界.向城邦贈禮時影響力+100%,城邦領土始終被視為友善領土,每座城市[+1 Culture]",
-		"unique": ["Triggers the following global alert: [永廷大人被攻擊了!] <upon declaring war with a major Civilization>","Gifts of Gold to City-States generate [+100]% more Influence","City-State territory always counts as friendly territory","[+1 Culture] [in all cities]"]
+		"uniqueText": "被攻擊時,告知全世界.向城邦贈禮時影響力+100%,城邦領土始終被視為友善領土,每座城市[+1 Culture]",
+		"uniques": ["Triggers the following global alert: [永廷大人被攻擊了!] <upon declaring war with a major Civilization>","Gifts of Gold to City-States generate [+100]% more Influence","City-State territory always counts as friendly territory","[+1 Culture] [in all cities]"]
 		"cities": ["a","b","c"]
 	},
 	{
@@ -80,8 +80,8 @@
 		"outerColor": [98,5,197],
 		"innerColor": [255,255,255],
 		"uniqueName": "小球",
-		"uniqueText":"首都[+5 Culture],每個已知的自然奇觀[+2 Gold],提高道路上的移動速度",
-		"unique": ["[+5 Culture] [in capital]","[+2 Gold] for every known Natural Wonder","Improves movement speed on roads"],
+		"uniqueText": "首都[+5 Culture],每個已知的自然奇觀[+2 Gold],提高道路上的移動速度",
+		"uniques": ["[+5 Culture] [in capital]","[+2 Gold] for every known Natural Wonder","Improves movement speed on roads"],
 		"cities": ["毒窟基地","規則","港口","身分組領取中心","聊天室","音樂","動漫討論","剪輯和精選","積分垃圾人",
 			"原神抽卡模擬","語音頻道區","大廳","邊聽邊讀-讀書室","飛鼠補習班","色色區","可以色色"]
 
