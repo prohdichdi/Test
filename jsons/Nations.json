@@ -44,7 +44,7 @@
 		"innerColor": [255,210,198],
 		"uniqueName": "內心毫無波瀾",
 		"uniqueText": "每座城市[+5 Science],黃金時代長度+100%,征服野蠻人營地時，[+50 Gold]並俘虜一個野蠻人",
-		"uniques": ["[+5 Science][in all cities]","[+100]% Golden Age length","When conquering an encampment, earn [50] Gold and recruit a Barbarian unit"],
+		"uniques": ["[+5 Science] [in all cities]","[+100]% Golden Age length","When conquering an encampment, earn [50] Gold and recruit a Barbarian unit"],
 		"cities": ["資研社大本營","電腦桌","圖片庫"]
 	},
 	{
