@@ -49,6 +49,17 @@
 
 	},
 	{
+		"name": "肝臟交易所",
+		"uniqueTo": "最強肝帝",
+		"isWonder": true,
+		"cost": 60,
+		"production": 6,
+		"gold": 4,
+		"uniques": ["Requires at least [10] population"],
+		"quote": "'有了這個,就能一直肝了'-最強肝帝"
+
+	},
+	{
 		"name": "頂尖狙擊手培訓",
 		"isNationalWonder": true,
 		"cost": 3000,
