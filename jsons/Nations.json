@@ -44,7 +44,7 @@
 		"innerColor": [255,210,198],
 		"uniqueName": "內心毫無波瀾",
 		"uniqueText": "每座城市[+5 Science],黃金時代長度+100%,黃金時代時+100%[science],征服野蠻人營地時，[+50 Gold]並俘虜一個野蠻人",
-		"uniques": ["[+5 Science] [in all cities]","[+100]% [science] [in all cities]<upon entering a Golden Age>","[+100]% Golden Age length","When conquering an encampment, earn [50] Gold and recruit a Barbarian unit"],
+		"uniques": ["[+5 Science] [in all cities]","[+100]% [science] [in all cities] <upon entering a Golden Age>","[+100]% Golden Age length","When conquering an encampment, earn [50] Gold and recruit a Barbarian unit"],
 		"cities": ["資研社大本營","電腦桌","圖片庫"]
 	},
 	{
@@ -65,7 +65,7 @@
 		"innerColor": [80,80,80],
 		"uniqueName": "電神",
 		"uniqueText": "被攻擊時,告知全世界.向城邦贈禮時影響力+100%,城邦領土始終被視為友善領土,每座城市[+2 Culture,+2 production,+2 food,+2 gold,+2 science,+2 happiness,+2 faith]",
-		"uniques": ["Triggers the following global alert: [永廷大人被攻擊了!] <upon declaring war with a major Civilization>","Gifts of Gold to City-States generate [+100]% more Influence","City-State territory always counts as friendly territory","[+2 Culture,+2 production,+2 food,+2 gold,+2 science,+2 happiness,+2 faith] [in all cities]"]
+		"uniques": ["Triggers the following global alert: [永廷大人被攻擊了!] <upon declaring war with a major Civilization>","Gifts of Gold to City-States generate [+100]% more Influence","City-State territory always counts as friendly territory","[+2 Culture, +2 production, +2 food, +2 gold, +2 science, +2 happiness, +2 faith] [in all cities]"]
 		"cities": ["高個兒","b","c"]
 	},
 	{
