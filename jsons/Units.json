@@ -37,9 +37,32 @@
 		"unitType": "Armored",
 		"movement": 6,
 		"strength": 200,
+		"cost":1000,
 		"requiredTech": "美好世界",
 		"requiredResource": "日冕礦石",
-		"uniques" : ["[6] Sight","[3] additional attacks per turn","All tiles cost 1 movement","Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"uniques" : ["[6] Sight","[3] additional attacks per turn","All tiles cost 1 movement","Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"]
+	},
+	{
+		"name": "未來步兵",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 120,
+		"cost":400,
+		"requiredTech": "未來的步兵",
+		"promotions": ["Amphibious"],
+		"uniques" : ["[3] Sight","Never appears as a Barbarian unit","Defense bonus when embarked"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "自爆機器人",
+		"unitType": "Gunpowder",
+		"movement": 4,
+		"strength": 150,
+		"cost":200,
+		"requiredTech": "未來的步兵",
+		"promotions": ["Amphibious"],
+		"uniques" : ["[2] Sight","[-80]% Strength <vs [Helicopter] units> <when attacking>","Never appears as a Barbarian unit","Self-destructs when attacking","Uncapturable","Unable to capture cities","Can move immediately once bought"],
+		"attackSound": "tankshot"
 	},
 
 ]
