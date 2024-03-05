@@ -12,13 +12,91 @@
 				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
 				"quote": "'早在1950年代就有人提出在「接近室溫」下出現的超導現象。若可以找到室溫超導體，可解決全世界能耗問題' - 維基百科",
                 "civilopediaText": [{"text": "本mod製作時間為2024-2-23,而現實科技會持續發展,搞不好哪天就真的實現了"}]
+			},
+			{
+				"name": "太空電梯",
+				"row": 2,
+				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"quote": "'日本將斥資100億美元建設太空電梯,預計在2050年完工' - 維基百科",
+                "civilopediaText": [{"text": "本mod製作時間為2024-2-23,而現實科技會持續發展,搞不好哪天就真的實現了"}]
+			},
+			{
+				"name": "新的材料",
+				"row": 3,
+				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"quote": "'我們發現了新的材料,它更加的廉價且耐用' - 未來的科學家",
+                "civilopediaText": [{"text": "本mod製作時間為2024-2-23,而現實科技會持續發展,搞不好哪天就真的實現了"}]
+			},
+			{
+				"name": "17組織",
+				"row": 4,
+				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"quote": "'輸贏啦!' - 8+9",
+                "civilopediaText": [{"text": "8+9們達成了共識,開始有系統的行動"}]
+			},
+			{
+				"name": "大佬戰術1",
+				"row": 6,
+				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"quote": "'大佬登場!全部給我上線!' - 赫迪奇迪",
+                "civilopediaText": [{"text": "可使用DI聯軍的強大兵種"}]
+			},
+			{
+				"name": "人工智慧",
+				"row": 7,
+				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"quote": "'AI會不會統治世界?' - 笨蛋",
+			},
+			{
+				"name": "平行世界理論",
+				"row": 8,
+				"cost":14000,
+				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"quote": "'平行世界真的存在嗎?' - 不明",
 			}
+		]
+	}
+	{
+		"columnNumber": 18,
+		"era": "Future era",
+		"techCost": 9500,
+		"buildingCost": 780,
+		"wonderCost": 1250,
+		"techs": [
 			{
 				"name": "太空旅行業",
 				"row": 2,
-				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"prerequisites": ["太空電梯"],
 				"quote": "'現在開始,即便你是普通人也能到太空旅行' - 太空旅行業大佬",
                 "civilopediaText": [{"text": "本mod製作時間為2024-2-23,而現實科技會持續發展,搞不好哪天就真的實現了"}]
+			},
+			{
+				"name": "未來步兵",
+				"row": 3,
+				"prerequisites": ["新的材料"],
+				"quote": "'文字' - 人名",
+                "civilopediaText": [{"text": "有現代步兵,為什麼不能有未來步兵?"}]
+			},
+			{
+				"name": "17軍隊",
+				"row": 4,
+				"prerequisites": ["17組織"],
+				"quote": "'兄弟們上!' - 8+9",
+                "civilopediaText": [{"text": "8+9們組成了私人軍隊"}]
+			},
+			{
+				"name": "大佬戰術2",
+				"row": 6,
+				"prerequisites": ["大佬戰術1"],
+				"quote": "'我也有肝帝模式的,只是要消耗一點祭品' - 赫迪奇迪",
+                "civilopediaText": [{"text": "可使用DI聯軍的強大兵種"}]
+			},
+			{
+				"name": "單向異世界傳送門",
+				"row": 8,
+				"prerequisites": ["平行世界理論"],
+				"quote": "'如果對異世界充滿嚮往,就來找我們吧!' - 徵求自願者的廣告",
+                "civilopediaText": [{"text": "只提供去程但不提供回程的單向傳送門,順帶一提,是卡車造型的"}]
 			}
 		]
 	}
