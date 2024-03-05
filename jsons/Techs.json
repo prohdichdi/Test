@@ -55,7 +55,7 @@
 				"quote": "'平行世界真的存在嗎?' - 不明",
 			}
 		]
-	}
+	},
 	{
 		"columnNumber": 18,
 		"era": "Future era",
@@ -94,10 +94,145 @@
 			{
 				"name": "單向異世界傳送門",
 				"row": 8,
+				"cost":20000,
 				"prerequisites": ["平行世界理論"],
 				"quote": "'如果對異世界充滿嚮往,就來找我們吧!' - 徵求自願者的廣告",
                 "civilopediaText": [{"text": "只提供去程但不提供回程的單向傳送門,順帶一提,是卡車造型的"}]
 			}
 		]
 	}
+	{
+		"columnNumber": 19,
+		"era": "ACG時代",
+		"techCost": 10000,
+		"buildingCost": 800,
+		"wonderCost": 1300,
+		"techs": [
+			{
+				"name": "異世界傳送門",
+				"row": 5,
+				"cost":20000,
+				"prerequisites": ["單向異世界傳送門"],
+				"quote": "'二次元成為了現實,大量粉絲狂喜' - 新聞",
+			}
+		]
+	},
+	{
+		"columnNumber": 20,
+		"era": "ACG時代",
+		"techCost": 10000,
+		"buildingCost": 800,
+		"wonderCost": 1300,
+		"techs": [
+			{
+				"name": "ACG工業",
+				"row": 5,
+				"prerequisites": ["異世界傳送門"],
+				"quote": "'二次元成為了現實,大量粉絲狂喜' - 新聞",
+			}
+		]
+	},
+	{
+		"columnNumber": 21,
+		"era": "ACG時代",
+		"techCost": 10500,
+		"buildingCost": 800,
+		"wonderCost": 1300,
+		"techs": [
+			{
+				"name": "聖杯戰爭",
+				"row": 1,
+				"prerequisites": ["ACG工業"],
+				"quote": "'我的身體是劍做的,血是鐵,心是玻璃,橫掃無數戰場,立於不敗之地,一場都沒有輸,卻一場也沒贏,孤兒又成一人,在劍之丘上,斬碎細冰,就算是冒牌的身體,那也是用劍做的!' - 衛宮士郎",
+			},
+			{
+				"name": "石鬼面",
+				"row": 2,
+				"prerequisites": ["ACG工業"],
+				"quote": "'我不當人了,Jojo!' - 迪奧·布蘭度",
+			},
+			{
+				"name": "美好世界",
+				"row": 3,
+				"prerequisites": ["ACG工業"],
+				"quote": "'這不是我想像的異世界生活啊!' - 和真",
+			},
+		]
+	},
+	{
+		"columnNumber": 22,
+		"era": "ACG時代",
+		"techCost": 10500,
+		"buildingCost": 800,
+		"wonderCost": 1300,
+		"techs": [
+			{
+				"name": "恩嘉紅寶石",
+				"row": 2,
+				"prerequisites": ["石鬼面"],
+				"quote": "'你竟然給我墨水義大利麵!' - 喬瑟夫·喬斯達",
+			},
+		]
+	},
+	{
+		"columnNumber": 23,
+		"era": "ACG時代",
+		"techCost": 10500,
+		"buildingCost": 800,
+		"wonderCost": 1300,
+		"techs": [
+			{
+				"name": "惡靈",
+				"row": 2,
+				"prerequisites": ["恩嘉紅寶石"],
+				"quote": "'你把我兩萬日圓的庫子弄破了' - 空條承太郎",
+			},
+		]
+	},
+	{
+		"columnNumber": 24,
+		"era": "ACG時代",
+		"techCost": 10500,
+		"buildingCost": 800,
+		"wonderCost": 1300,
+		"techs": [
+			{
+				"name": "替身之箭",
+				"row": 2,
+				"prerequisites": ["惡靈"],
+				"quote": "'我看起來像是醫學系畢業的學生嗎?' - 東方仗助",
+			},
+		]
+	},
+	{
+		"columnNumber": 25,
+		"era": "ACG時代",
+		"techCost": 10500,
+		"buildingCost": 800,
+		"wonderCost": 1300,
+		"techs": [
+			{
+				"name": "黑幫巨星",
+				"row": 2,
+				"prerequisites": ["替身之箭"],
+				"quote": "'我喬魯諾·喬巴拿有一個夢想' - 喬魯諾·喬巴拿",
+			},
+		]
+	},
+	{
+		"columnNumber": 26,
+		"era": "ACG時代",
+		"techCost": 10500,
+		"buildingCost": 800,
+		"wonderCost": 1300,
+		"techs": [
+			{
+				"name": "石頭免費",
+				"row": 2,
+				"prerequisites": ["黑幫巨星"],
+				"quote": "'我最後再說一次,時間要開始加速了!' - 普奇神父",
+			},
+		]
+	},
+	
 ]
