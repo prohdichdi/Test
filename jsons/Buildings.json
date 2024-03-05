@@ -68,4 +68,13 @@
 		"quote": "'這位是無人可敵的天才狙擊手'-教官"
 
 	}
+	{
+		"name": "開採日冕礦石",
+		"isNationalWonder": true,
+		"cost": 3000,
+		"uniques": ["Provides [1] [日冕礦石]"],
+		"requiredTech": "美好世界",
+		"quote": "'把它傳送走吧,出事了我負責!'-和真"
+
+	}
 ]
