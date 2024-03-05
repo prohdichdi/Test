@@ -30,6 +30,7 @@
 			{
 				"name": "17組織",
 				"row": 4,
+				"cost":100,
 				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
 				"quote": "'輸贏啦!' - 8+9",
                 "civilopediaText": [{"text": "8+9們達成了共識,開始有系統的行動"}]
@@ -80,6 +81,7 @@
 			{
 				"name": "17軍隊",
 				"row": 4,
+				"cost":3000,
 				"prerequisites": ["17組織"],
 				"quote": "'兄弟們上!' - 8+9",
                 "civilopediaText": [{"text": "8+9們組成了私人軍隊"}]
