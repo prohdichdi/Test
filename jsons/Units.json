@@ -21,7 +21,7 @@
 		"cost": 50,
 		"uniques" : ["Cannot attack","May enter foreign tiles without open borders","Invisible to others","Can transform to [聯軍五級戰鬥員]"],
 		"attackSound": "nonmetalhit"
-	}
+	},
 	{
 		"name": "次世代狙擊王",
 		"unitType": "Ranged Gunpowder",
@@ -29,8 +29,17 @@
 		"strength": 100,
 		"rangedStrength": 100,
 		"range":10,
-		"uniques" : ["Unbuildable","Cannot be purchased","Ranged attacks may be performed over obstacles","[10] Sight"],
+		"uniques" : ["Unbuildable","Cannot be purchased","Never appears as a Barbarian unit","Ranged attacks may be performed over obstacles","[10] Sight"],
 		"attackSound": "shot"
-	}
+	},
+	{
+		"name": "毀滅者",
+		"unitType": "Armored",
+		"movement": 6,
+		"strength": 200,
+		"requiredTech": "美好世界",
+		"requiredResource": "日冕礦石",
+		"uniques" : ["[6] Sight","[3] additional attacks per turn","All tiles cost 1 movement","Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
+	},
 
 ]
