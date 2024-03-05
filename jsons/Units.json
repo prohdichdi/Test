@@ -20,7 +20,6 @@
 		"strength": 8,
 		"cost": 50,
 		"uniques" : ["Cannot attack","May enter foreign tiles without open borders","Invisible to others","Can transform to [聯軍五級戰鬥員]"],
-		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "次世代狙擊王",
@@ -60,9 +59,38 @@
 		"strength": 150,
 		"cost":200,
 		"requiredTech": "未來的步兵",
-		"promotions": ["Amphibious"],
 		"uniques" : ["[2] Sight","[-80]% Strength <vs [Helicopter] units> <when attacking>","Never appears as a Barbarian unit","Self-destructs when attacking","Uncapturable","Unable to capture cities","Can move immediately once bought"],
 		"attackSound": "tankshot"
+	},
+	{
+		"name": "地方球棒隊",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 6,
+		"cost":30,
+		"requiredTech": "17組織",
+		"uniques" : ["[2] Sight","No movement cost to pillage","May enter foreign tiles without open borders"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "重機8+9",
+		"unitType": "Sword",
+		"movement": 5,
+		"strength": 10,
+		"cost":50,
+		"requiredTech": "17組織",
+		"uniques" : ["[3] Sight","No movement cost to pillage","May enter foreign tiles without open borders"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "波紋使者未完成",
+		"unitType": "Sword",
+		"movement": 5,
+		"strength": 10,
+		"cost":50,
+		"requiredTech": "17組織",
+		"uniques" : ["[3] Sight","No movement cost to pillage","May enter foreign tiles without open borders"],
+		"attackSound": "nonmetalhit"
 	},
 
 ]
