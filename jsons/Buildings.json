@@ -67,7 +67,7 @@
 		"requiredTech": "Replaceable Parts",
 		"quote": "'這位是無人可敵的天才狙擊手'-教官"
 
-	}
+	},
 	{
 		"name": "開採日冕礦石",
 		"isNationalWonder": true,
@@ -76,5 +76,168 @@
 		"requiredTech": "美好世界",
 		"quote": "'把它傳送走吧,出事了我負責!'-和真"
 
-	}
+	},
+	{
+		"name": "超級鐵路",
+		"cost": 310,
+		"production": 3,
+		"happiness": 1,
+		"uniques": ["[-80]% maintenance on road & railroads [in this city]"],
+		"requiredTech": "室溫超導體",
+
+	},
+	{
+		"name": "建造太空電梯",
+		"cost": 340,
+		"production": 1,
+		"gold": 2,
+		"percentStatBonus": {"gold": 20},
+		"specialistSlots": {"Engineer": 1},
+		"requiredTech": "太空電梯",
+
+	},
+	{
+		"name": "新式工廠",
+		"cost": 320,
+		"production": 3,
+		"percentStatBonus": {"production": 10},
+		"maintenance": 1,
+		"requiredTech": "新的材料",
+
+	},
+	{
+		"name": "8+9大本營",
+		"isNationalWonder": true,
+		"cost": 500,
+		"culture": 5,
+		"percentStatBonus": {"culture": 20},
+		"uniques": ["Provides [3] [走私品]"],
+		"requiredTech": "17組織",
+
+	},
+	{
+		"name": "8+9營地",
+		"cost": 340,
+		"culture": 2,
+		"happiness": 3,
+		"percentStatBonus": {"culture": 10},
+		"maintenance": 1,
+		"requiredTech": "17組織",
+
+	},
+	{
+		"name": "散彈槍工廠",
+		"cost": 340,
+		"production": 4,
+		"happiness": 2,
+		"maintenance": 1,
+		"requiredTech": "大佬戰術1",
+
+	},
+	{
+		"name": "DI聯軍紮駐地",
+		"cost": 340,
+		"maintenance": 1,
+		"percentStatBonus": {"production": 25},
+		"requiredTech": "大佬戰術1",
+
+	},
+	{
+		"name": "終極電腦",
+		"cost": 340,
+		"gold": 4,
+		"science": 4,
+		"production": 4,
+		"percentStatBonus": {"science": 40},
+		"requiredTech": "人工智慧",
+
+	},
+	{
+		"name": "平行世界理論模型",
+		"cost": 350,
+		"science": 10,
+		"culture": 5,
+		"faith": 2,
+		"percentStatBonus": {"faith": 5},
+		"requiredTech": "平行世界理論",
+
+	},
+	{
+		"name": "太空站",
+		"cost": 400,
+		"science": 3,
+		"culture": 3,
+		"happiness": 5,
+		"gold": 3,
+		"requiredTech": "太空旅行業",
+
+	},
+	{
+		"name": "未來兵營",
+		"cost": 400,
+		"cityStrength": 10,
+		"cityHealth": 30,
+		"requiredTech": "未來的步兵",
+
+	},
+	{
+		"name": "球棒工廠",
+		"cost": 200,
+		"production": 1,
+		"happiness": 1,
+		"maintenance": 1,
+		"requiredTech": "17軍隊",
+
+	},
+	{
+		"name": "大卡車工廠",
+		"cost": 500,
+		"production": 5,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 1},
+		"maintenance": 2,
+		"requiredTech": "單向異世界傳送門",
+
+	},
+	{
+		"name": "一次性傳送法陣",
+		"cost": 500,
+		"happiness": 3,
+		"faith": 2,
+		"maintenance": 2,
+		"uniques": ["[-1] population [in all cities]"],
+		"requiredBuilding": "大卡車工廠",
+		"requiredTech": "單向異世界傳送門",
+
+	},
+	{
+		"name": "原世界土產店",
+		"cost": 500,
+		"happiness": 1,
+		"faith": 4,
+		"gold": 4,
+		"percentStatBonus": {"faith": 10},
+		"requiredBuilding": "一次性傳送法陣",
+		"requiredTech": "單向異世界傳送門",
+
+	},
+	{
+		"name": "宇宙戰艦工廠",
+		"cost": 530,
+		"production": 6,
+		"percentStatBonus": {"production": 30},
+		"maintenance": 3,
+		"requiredTech": "太空軍事",
+
+	},
+	{
+		"name": "異世界調查委員會",
+		"cost": 600,
+		"science": 7,
+		"culture": 7,
+		"maintenance": 3,
+		"uniques": ["Provides [2] [異界土產]"],
+		"requiredTech": "異世界傳送門",
+
+	},
 ]
