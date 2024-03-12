@@ -1,1 +1,16 @@
+[
+    {
+        "name": "波紋",
+        "movementType": "Land"
+    },
+    {
+        "name": "吸血",
+        "movementType": "Land"
+    },
+    {
+        "name": "替身",
+        "movementType": "Land"
+        "uniques": ["May attack when embarked","Eliminates combat penalty for attacking across a coast","Eliminates combat penalty for attacking over a river"]
+    }
 
+]
