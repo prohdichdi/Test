@@ -2,7 +2,12 @@
 	{
 		"name": "日冕礦石",
 		"resourceType": "Strategic",
-    "revealedBy":"美好世界"
+   		 "revealedBy":"美好世界"
+	},
+	{
+		"name": "走私品",
+		"resourceType": "Luxury",
+		"revealedBy":"17組織"
 	}
 
 ]
