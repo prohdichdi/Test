@@ -1,5 +1,19 @@
 [
 	{
+		"name": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 999,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
+	{
 		"name": "聯軍五級戰鬥員",
 		"unitType": "Sword",
 		"uniqueTo": "一大堆人",
@@ -83,14 +97,42 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "波紋使者未完成",
-		"unitType": "Sword",
-		"movement": 5,
-		"strength": 10,
-		"cost":50,
-		"requiredTech": "17組織",
-		"uniques" : ["[3] Sight","No movement cost to pillage","May enter foreign tiles without open borders"],
+		"name": "波紋使者",
+		"unitType": "波紋",
+		"movement": 3,
+		"strength": 130,
+		"cost":420,
+		"requiredTech": "石鬼面",
+		"uniques" : ["May heal outside of friendly territory","All healing effects doubled","Defense bonus when embarked","[+50]% Strength <vs [吸血鬼] 單位>"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "吸血鬼",
+		"unitType": "吸血",
+		"movement": 3,
+		"strength": 140,
+		"cost":420,
+		"requiredTech": "石鬼面",
+		"uniques" : ["Damage is ignored when determining unit Strength","May capture killed [All] units","Can move after attacking"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "紫外線燈",
+		"unitType": "波紋",
+		"movement": 2,
+		"strength": 50,
+		"cost":350,
+		"requiredTech": "恩嘉紅寶石",
+		"uniques" : ["[+500]% Strength <vs [吸血] 單位>"],
+	},
+	{
+		"name": "替身使者",
+		"unitType": "替身",
+		"movement": 3,
+		"strength": 150,
+		"cost":500,
+		"requiredTech": "惡靈",
+		"uniques" : ["Can move after attacking","[2] additional attacks per turn"],
 	},
 
 ]
