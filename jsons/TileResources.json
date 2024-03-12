@@ -8,6 +8,12 @@
 		"name": "走私品",
 		"resourceType": "Luxury",
 		"revealedBy":"17組織"
+	},
+	{
+		"name": "異界土產",
+		"resourceType": "Luxury",
+		"revealedBy":"異世界傳送門",
+		"uniques":["[+10]% [Culture] [in all cities]"]
 	}
 
 ]
