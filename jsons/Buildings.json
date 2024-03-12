@@ -1,5 +1,16 @@
 [
 	{
+		"name": "雙掃把",
+		"isNationalWonder": true,
+		"cost": 60,
+		"happiness": 3,
+		"production": -2,
+		"faith": 4,
+		"culture": 4,
+		"quote":["Requires at least [3] population"]
+
+	},
+	{
 		"name": "芭樂汁工廠",
 		"uniqueTo": "永廷",
 		"isWonder": true,
