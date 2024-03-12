@@ -59,7 +59,7 @@
 		"movement": 4,
 		"strength": 150,
 		"cost":200,
-		"requiredTech": "未來的步兵",
+		"requiredTech": "新的材料",
 		"uniques" : ["[2] Sight","[-80]% Strength <vs [Helicopter] units> <when attacking>","Never appears as a Barbarian unit","Self-destructs when attacking","Uncapturable","Unable to capture cities","Can move immediately once bought"],
 		"attackSound": "tankshot"
 	},
