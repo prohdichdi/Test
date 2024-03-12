@@ -90,6 +90,8 @@
 		"strength": 130,
 		"cost":420,
 		"requiredTech": "石鬼面",
+		"upgradesTo": "替身使者",
+		"obsoleteTech": "惡靈",
 		"uniques" : ["May heal outside of friendly territory","All healing effects doubled","Defense bonus when embarked","[+50]% Strength <vs [吸血鬼] 單位>"],
 		"attackSound": "nonmetalhit"
 	},
@@ -100,8 +102,9 @@
 		"strength": 140,
 		"cost":420,
 		"requiredTech": "石鬼面",
+		"upgradesTo": "替身使者",
+		"obsoleteTech": "替身之箭",
 		"uniques" : ["Damage is ignored when determining unit Strength","May capture killed [All] units","Can move after attacking"],
-		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "紫外線燈",
@@ -110,6 +113,7 @@
 		"strength": 50,
 		"cost":350,
 		"requiredTech": "恩嘉紅寶石",
+		"obsoleteTech": "惡靈",
 		"uniques" : ["[+500]% Strength <vs [吸血] 單位>"],
 	},
 	{
@@ -121,5 +125,6 @@
 		"requiredTech": "惡靈",
 		"uniques" : ["Can move after attacking","[2] additional attacks per turn"],
 	},
+
 
 ]
