@@ -240,4 +240,34 @@
 		"requiredTech": "異世界傳送門",
 
 	},
+	{
+		"name": "向異世界交好",
+		"cost": 1000,
+		"isNationalWonder": true,
+		"science": 10,
+		"culture": 10,
+		"food": 10,
+		"happiness": 10,
+		"faith": 10,
+		"uniques": ["Unbuildable <if [Ally with 向異世界宣戰] is constructed>"],
+		"requiredBuilding": "異世界調查委員會",
+		"requiredTech": "異世界傳送門",
+
+	},
+	{
+		"name": "向異世界宣戰",
+		"cost": 1000,
+		"isNationalWonder": true,
+		"production": 30,
+		"percentStatBonus": {"production": 100},
+		"gold": -30,
+		"happiness": -5,
+		"food": 5,
+		"faith": 5,
+		"culture": -5,
+		"uniques": ["Unbuildable <if [Ally with 向異世界交好] is constructed>"],
+		"requiredBuilding": "異世界調查委員會",
+		"requiredTech": "異世界傳送門",
+
+	},
 ]
